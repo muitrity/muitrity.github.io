@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muitrity.github.io/sitemap.html.gz
+Sitemap: https://muitrity.github.io/app/sitemap.html.gz
+Sitemap: https://muitrity.github.io/assets/sitemap.html.gz
+Sitemap: https://muitrity.github.io/css/sitemap.html.gz
+Sitemap: https://muitrity.github.io/includes/sitemap.html.gz
+Sitemap: https://muitrity.github.io/item/sitemap.html.gz
+Sitemap: https://muitrity.github.io/src/sitemap.html.gz
